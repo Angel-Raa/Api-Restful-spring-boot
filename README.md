@@ -66,10 +66,17 @@ http://localhost:8000/api/v1/swagger-ui/index.html#/
 ![](https://github.com/Angel-Raa/spring-security-jwt-authentication-and-authorization/blob/main/src/main/resources/img/docs.png)
 
 
+## Recursos Adicionales
 
-
-Esperamos que esta documentación te ayude a comprender mejor cómo usar los JSON Web Tokens (JWT) en tu aplicación de Spring Security. Si tienes alguna pregunta o sugerencia, no dudes en abrir un problema o contribuir al repositorio.
-
+Aquí hay algunos recursos adicionales que podrían ser útiles:
+- [Documentacion de Spring Data](https://spring.io/projects/spring-data)
+- [Documentación de Java JWT](https://github.com/jwtk/jjwt)
+- [Documentacion de open jdk 17](https://docs.oracle.com/en/java/javase/17/docs/api/)
+- [Documentacion de Spring boot](https://docs.spring.io/spring-boot/docs/current/reference/htmlsingle/)
+- [Documentacion de Maven](https://maven.apache.org/guides/getting-started/)
+- [Documentacion de Docker](https://docs.docker.com/)
+- [Documentacion de Spring Security](https://docs.spring.io/spring-security/reference/index.html)
+- [Documentacion de Git](https://git-scm.com/doc)
 
 
 
